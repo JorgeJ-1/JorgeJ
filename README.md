@@ -25,6 +25,11 @@
  ![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)(jorgejgomezrovira@gmail.com)
 
 
+<h1>Stats</h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jorgej61&theme=white)](https://git.io/streak-stats)
+ &nbsp;
+
 
 
 <!--
