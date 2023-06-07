@@ -27,7 +27,7 @@
 
 <h1>Stats</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jorgej61&theme=white)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jorgej61&theme=transparent)](https://git.io/streak-stats)
  &nbsp;
 
 
