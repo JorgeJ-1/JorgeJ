@@ -7,7 +7,14 @@
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML/)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS/)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript/)
-[![My Skills](https://skillicons.dev/icons?i=oop)](https:///)
+[![My Skills](https://skillicons.dev/icons?i=slack)](https://developer.mozilla.org/es/docs/Web/JavaScript/)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=xampp)]
+[![My Skills](https://skillicons.dev/icons?i=oop)]
+
+<a href="https://slack.com/intl/es-es/">![Slack]</a>
+
 
 <a href="https://www.oracle.com/database/technologies/appdev/plsql.html">![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)</a>
 
